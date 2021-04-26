@@ -29,4 +29,3 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLocatelli02&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RobertoLocatelli02&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
-*Roberto Locatelli is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
