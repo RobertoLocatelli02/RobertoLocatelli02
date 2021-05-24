@@ -11,6 +11,7 @@
 #### Knowledge in languages:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
@@ -24,7 +25,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLocatelli02&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RobertoLocatelli02&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
