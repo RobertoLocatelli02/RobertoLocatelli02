@@ -6,6 +6,7 @@
 
 #### My contacts:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511948091727&text=Olá!)](https://api.whatsapp.com/send?phone=5511948091727&text=Olá!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/roberto-locatelli-9305b0211/)](https://www.linkedin.com/in/roberto-locatelli-9305b0211/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rlocatelli02@gmail.com)](mailto:rlocatelli02@gmail.com)
 
 #### Knowledge in languages:
