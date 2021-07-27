@@ -35,10 +35,5 @@
  Quantidade de visitas no meu perfil desde: 27/07/2021 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/RobertoLocatelli02/count.svg" /></p>
-<p align="center">
-Obrigado e volte sempre! 😄
-</p>
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/RobertoLocatelli02/RobertoLocatelli02/output/github-contribution-grid-snake.svg)
 
