@@ -30,10 +30,7 @@
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLocatelli02&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RobertoLocatelli02&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
  
- ### Minhas informações aqui no GitHub:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasLM1&theme=tokyonight&show_icons=true)
 
-[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLocatelli02&theme=tokyonight&layout=compact)](https://github.com/RobertoLocatelli02/github-readme-stats)
 <p align="center">
  Quantidade de visitas no meu perfil desde: 27/07/2021 🕵️ <br></p>
 <p align="center"> 
