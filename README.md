@@ -31,7 +31,15 @@
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RobertoLocatelli02&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
  
 <br>
-<div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
  Quantidade de visitas no meu perfil desde: 27/07/2021 🕵️ <br></p>
 <p align="center"> 
@@ -39,5 +47,5 @@
 <p align="center">
 Obrigado e volte sempre!
 </p>
-</div>
+
 
