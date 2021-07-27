@@ -35,9 +35,8 @@
  Quantidade de visitas no meu perfil desde: 27/07/2021 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/RobertoLocatelli02/count.svg" /></p>
-
 <p align="center">
-Até mais!
+Obrigado e volte sempre!
 </p>
 
 
