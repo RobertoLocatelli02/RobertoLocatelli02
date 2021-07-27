@@ -40,5 +40,5 @@ Obrigado e volte sempre! 😄
 </p>
 
 
-![Snake animation](https://github.com/RobertoLocatelli02/RobertoLocatelli02/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/RobertoLocatelli02/RobertoLocatelli02/output/github-contribution-grid-snake.svg)
 
