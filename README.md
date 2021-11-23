@@ -26,28 +26,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=black)
+![Flask](https://img.shields.io/badge/-flask-000000?style=flat&logo=flask)
 
 <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertoLocatelli02&layout=compact&theme=vision-friendly-dark" />
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=RobertoLocatelli02&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
- 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<p align="center">
- Quantidade de visitas no meu perfil desde: 18/06/2021 🕵️ <br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/RobertoLocatelli02/count.svg" /></p>
-<p align="center">
-Obrigado e volte sempre!
-</p>
-
-
